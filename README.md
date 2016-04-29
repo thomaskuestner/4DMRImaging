@@ -10,8 +10,10 @@ retrospective motion gating and reconstruction of subsampled data
 - self-navigation signal extraction
 - gating procedure
 - for the CS reconstruction, please refer to https://github.com/thomaskuestner/CS_LAB
-### Matlab 
+ 
+### Matlab
 code included here
+
 ### Gadgetron
 please refer to https://github.com/martinschwartz/CS_Gadgetron
 
