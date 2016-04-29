@@ -6,9 +6,14 @@ A Cartesian 3D random Gaussian ESPReSSo subsampling is proposed which acquires a
 - precompiled 4D MR imaging sequence: CS_Retro (Siemens, VB20P)
 
 ## Reconstruction
+retrospective motion gating and reconstruction of subsampled data
 - self-navigation signal extraction
 - gating procedure
 - for the CS reconstruction, please refer to https://github.com/thomaskuestner/CS_LAB
+### Matlab 
+code included here
+### Gadgetron
+please refer to https://github.com/martinschwartz/CS_Gadgetron
 
 --------------------------------------------------------
 Please read LICENSE file for licensing details.
