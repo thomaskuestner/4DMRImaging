@@ -15,7 +15,7 @@ retrospective motion gating and reconstruction of subsampled data
 code included here
 
 ### Gadgetron
-please refer to https://github.com/martinschwartz/CS_Gadgetron
+please refer to https://github.com/thomaskuestner/CS_LAB/reconstruction/gadgetron/CS_LAB_Gadget
 
 --------------------------------------------------------
 Please read LICENSE file for licensing details.
